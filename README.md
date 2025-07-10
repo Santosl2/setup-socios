@@ -1,4 +1,4 @@
-<img src="https://github.com/sociosdigitalespro/setup-socios/blob/main/assets/banner.jpg" alt="SetupOrion">
+<img src="https://github.com/Santosl2/setup-socios/blob/main/assets/banner.jpg" alt="SetupOrion">
 
 <p align="center">
   Este autoinstalador es una solución <b>100% gratuita</b>, con el objetivo de ayudar a toda la comunidad a instalar las principales herramientas del mercado de Automatizaciones/Marketing en su servidor.
@@ -8,10 +8,10 @@
  
 <p align="center">
   <a href="https://chat.sociosdigitales.pro/grupowa-e-templates">
-    <img src="https://github.com/sociosdigitalespro/setup-socios/blob/main/assets/whatsapp.jpg" alt="Whatsapp Socios Digitales">
+    <img src="https://github.com/Santosl2/setup-socios/blob/main/assets/whatsapp.jpg" alt="Whatsapp Socios Digitales">
   </a>     
   <a href="https://www.youtube.com/playlist?list=PLL8K084wvtvFzQYFU232ly6-EYxGO17Mj">
-    <img src="https://github.com/sociosdigitalespro/setup-socios/blob/main/assets/instalation.jpg" alt="Socios Digitales Playlist">
+    <img src="https://github.com/Santosl2/setup-socios/blob/main/assets/instalation.jpg" alt="Socios Digitales Playlist">
   </a>     
 </p>
 
@@ -31,7 +31,7 @@
 <p>Solo ejecuta este código en la terminal de tu servidor:</p>
 
 ```
-bash <(curl -SSL https://raw.githubusercontent.com/sociosdigitalespro/setup-socios/refs/heads/main/Setup)
+bash <(curl -SSL https://raw.githubusercontent.com/Santosl2/setup-socios/refs/heads/main/Setup)
 ```
 
 <p>Después, espera unos momentos mientras el script se inicia y finalmente instala las herramientas que desees.</p>

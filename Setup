@@ -275,7 +275,7 @@ if [ -e "SetupSociosDigitales" ]; then
 fi
 
 # Descarga el script
-curl -sSL https://raw.githubusercontent.com/sociosdigitalespro/setup-socios/refs/heads/main/SetupSociosDigitales -o SetupSociosDigitales
+curl -sSL https://raw.githubusercontent.com/Santosl2/setup-socios/refs/heads/main/SetupSociosDigitales -o SetupSociosDigitales
 if [ $? -eq 0 ]; then
     echo "14/14 - [ OK ] - Descargando el script"
     # Ejecuta el script descargado
