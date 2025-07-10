@@ -2594,7 +2594,7 @@ pull() {
                 # Verifica se o erro é relacionado a limite de taxa
                 if docker pull "$image" 2>&1 | grep -q "toomanyrequests"; then
                     echo "Limite de taxa atingido no Docker Hub. Faça login para continuar."
-                    docker login
+                    docker login -u mfilype
                 else
                     echo "Erro desconhecido. Tentando novamente em 5s..."
                     sleep 5
